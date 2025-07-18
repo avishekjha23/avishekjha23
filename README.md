@@ -125,7 +125,7 @@ Here are some ideas to get you started:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=avishekjha23&theme=dark&show_icons=true&rank_icon=github&card_width=440" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=avishekjha23&theme=light&show_icons=true&rank_icon=github&card_width=440" />
-    <img alt="Github Streaks" src="https://github-readme-stats.vercel.app/api?username=avishekjha23&theme=light&show_icons=true&rank_icon=github&card_width=440" />
+    <img alt="Github Streaks" src="https://github-readme-stats.vercel.app/api?username=avishekjha23&theme=light&show_icons=true&rank_icon=default&card_width=440" />
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=avishekjha23&theme=dark&hide_border=false&card_width=400" />
