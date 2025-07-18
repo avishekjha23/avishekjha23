@@ -132,10 +132,14 @@ Here are some ideas to get you started:
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=avishekjha23&theme=light&hide_border=false&card_width=400" />
     <img alt="Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=avishekjha23&theme=light&hide_border=false&card_width=400" />
   </picture>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="profile/assets/SnakeGameDark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="profile/assets/SnakeGame.svg" />
-    <img alt="Github Contribution Snake Game" src="profile/assets/SnakeGame.svg" />
-  </picture>
+<!-- Responsive Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avishekjha23/avishekjha23/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avishekjha23/avishekjha23/output/github-contribution-grid-snake.svg" />
+  <img alt="Github Contribution Snake Game" src="https://raw.githubusercontent.com/avishekjha23/avishekjha23/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=avishekjha23&bg_color=12111d&color=ffffff&line=1055e0&point=00ff11&area=true&hide_border=true" alt="contribution-graph" width="100%">
+
 </p>
