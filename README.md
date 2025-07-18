@@ -15,6 +15,23 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 📌&nbsp; About Me
+
+- 💬&nbsp; Ask me about anything, I am happy to help.
+- 
+  
+<!-- - 🚀&nbsp; Fullstack Developer at **[AdeptMind]**
+Hey coder! 👋 Glad to see you here.
+Let’s turn ideas into code 💡➡️💻
+Building cool things one commit at a time 🚀
+Developer by day, debugger by night 🌙
+Thanks for visiting — explore, fork, and enjoy! 🎉
+Code. Create. Collaborate. 💻✨
+- 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
+- 💻&nbsp; Checkout my cli portfolio, Run `npx ritik` in your terminal
+- 📅&nbsp; Up for a huddle? Schedule a **[Meeting]** -->
+
+
 # 🌐&nbsp; Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishekjha23.aj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avishek-jha-459647216)
