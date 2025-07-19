@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey folks! 😁 Avishek Jha here — this is my code corner ☕ 
 
 <!--
 **avishekjha23/avishekjha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 
 # 📌&nbsp; About Me
 
+- 🚀&nbsp; I’m currently building Full-Stack projects.
+- 🌱&nbsp; I’m currently exploring various frameworks. 
 - 💬&nbsp; Ask me about anything, I am happy to help.
-- 
+- 👨🏻‍💻&nbsp; Let's code, create, colaborate. ✨
   
 <!-- - 🚀&nbsp; Fullstack Developer at **[AdeptMind]**
 Hey coder! 👋 Glad to see you here.
