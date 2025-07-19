@@ -25,9 +25,6 @@ Here are some ideas to get you started:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://facebook.com/) -->
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/) -->
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
-
-
 # 📌&nbsp; About Me
 
 - 🚀&nbsp; I’m currently building Full-Stack projects.
@@ -35,6 +32,7 @@ Here are some ideas to get you started:
 - 💬&nbsp; Ask me about anything, I am happy to help.
 - 👨🏻‍💻&nbsp; Let's code, create, colaborate. ✨
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
 
   
 <!-- - 🚀&nbsp; Fullstack Developer at **[AdeptMind]**
