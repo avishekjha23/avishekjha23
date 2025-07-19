@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
+
 # 📌&nbsp; About Me
 
 - 🚀&nbsp; I’m currently building Full-Stack projects.
