@@ -1,4 +1,4 @@
-## Hey folks! 😁 Avishek Jha here — this is my code corner ☕ 
+# Hey folks! 😁 Avishek Jha here — this is my code corner ☕ 
 
 <!--
 **avishekjha23/avishekjha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
