@@ -143,7 +143,7 @@ Code. Create. Collaborate. 💻✨
 
 
 
-# 📊 Stats
+## 📊 Stats
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=avishekjha23&theme=dark&show_icons=true&rank_icon=github&card_width=440" />
