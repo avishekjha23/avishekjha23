@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
 # 🌐&nbsp; Socials
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avishekjha23.aj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/avishek-jha-459647216)
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/) -->
 
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
+
 
 # 📌&nbsp; About Me
 
