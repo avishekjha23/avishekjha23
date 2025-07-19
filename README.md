@@ -36,7 +36,9 @@ Here are some ideas to get you started:
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=avishekjha23&column=-1&theme=onedark" alt="avishekjha23" /></p>
 
   
-<!-- - 🚀&nbsp; Fullstack Developer at **[AdeptMind]**
+<!--
+
+🚀&nbsp; Fullstack Developer at **[AdeptMind]**
 Hey coder! 👋 Glad to see you here.
 Let’s turn ideas into code 💡➡️💻
 Building cool things one commit at a time 🚀
@@ -45,7 +47,15 @@ Thanks for visiting — explore, fork, and enjoy! 🎉
 Code. Create. Collaborate. 💻✨
 - 📖&nbsp; Learn more about me on my **[Portfolio]** and **[Resume]**
 - 💻&nbsp; Checkout my cli portfolio, Run `npx ritik` in your terminal
-- 📅&nbsp; Up for a huddle? Schedule a **[Meeting]** -->
+- 📅&nbsp; Up for a huddle? Schedule a **[Meeting]** 
+🎯 Passionate Full-Stack Developer focused on building impactful and scalable web applications.
+💻 Skilled in JavaScript (ES6+), React, Node.js, MongoDB, Java, and RESTful APIs.
+🚀 Currently working on projects that blend functionality with clean UI/UX.
+📚 Constantly learning — from system design to cloud basics (AWS, Docker, etc.).
+🧠 I love solving DSA problems and improving my backend architecture knowledge.
+🎙️ Also improving communication for better interviews and collaborations.
+
+-->
 
 
 
